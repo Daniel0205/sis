@@ -21,7 +21,7 @@ class Process extends React.Component {
         super()
         
         this.state={
-            estado:'doctor',
+            estado:'inicio',
             date:'11/11/2014',
             doctor:'Dotor Uribe'
         }
